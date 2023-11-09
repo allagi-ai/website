@@ -1,2 +1,2 @@
-# Allagi.AI
+# Allagi.ai
 website
