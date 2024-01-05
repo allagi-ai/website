@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# AI assistant for molecular tumor boards — multimodal AI system for clinical decision making in oncology
-
 How can we enable timely and cost-efficient access to precision oncology for every patient with complex cancer in the world?
 
 Cancer is one of the most devastating diseases of our time disproportionately affecting lower income as well as ethnic minority populations.
