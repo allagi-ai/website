@@ -1,54 +1,11 @@
 title: Allagi.ai
+email: connect@allagi.ai
 description: AI molecular tumor board
-taglong: Multimodal AI system for clinical decision making in oncology
-tagshort: ""
-url: https://allagi.ai
 baseurl: ""
-permalink: pretty
-repo: https://github.com/
+url: https://allagi.ai
 
-# author settings
 
-author:
-  name: Allagi.ai
-  email: connect@rnafold.ai
-photo: /assets/jpg/allagi_logo.png
-
-#  facebook: username
-#  github: username
-#  instagram: username
-#  linkedin: username
-#  stackoverflow: 0000000/username
-#  twitter: username
-
-exclude:
-  - LICENSE
-  - README.md
-
+# Build settings
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-whitelist:
-  - jekyll-sitemap
-
-sass:
-  sass_dir: _sass
-  style: compressed
-  sourcemap: never
-
-feed:
-  path: atom.xml
-
-autopages:
-  enabled: false
-
-pagination:
-  enabled: true
-  per_page: 1
-  sort_reverse: true
-  permalink: /:num/
-  title: ":title &middot; Page :num"

@@ -1,11 +1,9 @@
 ---
 layout: home
-title: Home
 ---
 
 # AI assistant for molecular tumor boards — multimodal AI system for clinical decision making in oncology
 
-# About
 How can we enable timely and cost-efficient access to precision oncology for every patient with complex cancer in the world?
 
 Cancer is one of the most devastating diseases of our time disproportionately affecting lower income as well as ethnic minority populations.
@@ -18,7 +16,3 @@ Aotearoa New Zealand only has the capacity for very few cancer patients to have 
 We aspire to remove the main barrier to precision oncology becoming universally accessible – time human experts spend on linking individuals' clinical and genomic data to biomedical knowledge to come up with clinically actionable recommendations.
 
 [Read more about and support us.](https://solve.mit.edu/challenges/cure-challenge/solutions/80181)
-
-
-# Founder
-[Alex Gavryushkin](mailto:alex@allagi.ai)
