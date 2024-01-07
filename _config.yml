@@ -1,11 +1,11 @@
-title:		Allagi.ai
-email:		connect@allagi.ai
-description:	AI molecular tumor board
-baseurl:	""
-url:		https://allagi.ai
+title: Allagi.ai
+email: connect@allagi.ai
+description: AI molecular tumor board
+baseurl: ""
+url: https://allagi.ai
 
 
 # Build settings
-theme:		minima
+theme: minima
 plugins:
-	- jekyll-feed
+  - jekyll-feed
