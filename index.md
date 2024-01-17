@@ -1,7 +1,11 @@
 ---
 layout: home
-title: AI molecular tumor board
 ---
+
+![](./assets/allagi_logo_1080.png)
+
+
+# AI molecular tumor board
 
 How can we enable timely and cost-efficient access to precision oncology for every patient with complex cancer in the world?
 
