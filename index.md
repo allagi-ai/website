@@ -20,6 +20,6 @@ We aspire to remove the main barrier to precision oncology becoming universally 
 
 [Read more about and support us](https://solve.mit.edu/challenges/cure-challenge/solutions/80181) on our journey toward affordable and accessible precision oncology.
 
-Allagi.ai is the winner of [MIT Solve Cure Xchange Challenge "Health AI for Good"](https://www.linkedin.com/posts/kumarseema_xchangechallenge-healthaiforgood-ai-activity-7167558802186170368-wyp3).
-The only winner from outside the US.
+Allagi.ai is the winner of [MIT Solve Cure Xchange Challenge "Health AI for Good"](https://solve.mit.edu/challenges/cure-challenge).
+The only [winner from outside the US](https://www.linkedin.com/posts/kumarseema_xchangechallenge-healthaiforgood-ai-activity-7167558802186170368-wyp3).
 Watch [the winner ceremony](https://www.youtube.com/watch?v=D7FDpUE1a-k) led by Cure CEO Seema Kumar with awards presented by Chelsea Clinton DPHIL, MPH from the Clinton Foundation.
