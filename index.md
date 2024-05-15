@@ -19,3 +19,7 @@ Aotearoa New Zealand only has the capacity for very few cancer patients to have 
 We aspire to remove the main barrier to precision oncology becoming universally accessible – time human experts spend on linking individuals' clinical and genomic data to biomedical knowledge to come up with clinically actionable recommendations.
 
 [Read more about and support us](https://solve.mit.edu/challenges/cure-challenge/solutions/80181) on our journey toward affordable and accessible precision oncology.
+
+Allagi.ai is the winner of [MIT Solve Cure Xchange Challenge "Health AI for Good"](https://www.linkedin.com/posts/kumarseema_xchangechallenge-healthaiforgood-ai-activity-7167558802186170368-wyp3).
+The only winner from outside the US.
+Watch [the winner ceremony](https://www.youtube.com/watch?v=D7FDpUE1a-k) led by Cure CEO Seema Kumar with awards presented by Chelsea Clinton DPHIL, MPH from the Clinton Foundation.
